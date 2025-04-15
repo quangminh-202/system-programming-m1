@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/quangminh/Documents/lab1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/lab1.dir/main.cpp.o -c /home/quangminh/Documents/lab1/main.cpp",
+  "file": "/home/quangminh/Documents/lab1/main.cpp",
+  "output": "CMakeFiles/lab1.dir/main.cpp.o"
+}
+]

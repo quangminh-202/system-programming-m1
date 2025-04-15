@@ -1,0 +1,6 @@
+/home/quangminh/Documents/lab2/cmake-build-debug/CMakeFiles/1_signal.dir
+/home/quangminh/Documents/lab2/cmake-build-debug/CMakeFiles/2_unnamed_pipe.dir
+/home/quangminh/Documents/lab2/cmake-build-debug/CMakeFiles/2_message_queue.dir
+/home/quangminh/Documents/lab2/cmake-build-debug/CMakeFiles/study.dir
+/home/quangminh/Documents/lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/quangminh/Documents/lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

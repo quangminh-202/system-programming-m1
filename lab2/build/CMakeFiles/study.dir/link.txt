@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/study.dir/study.cpp.o -o study 
