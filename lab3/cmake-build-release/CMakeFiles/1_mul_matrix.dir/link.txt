@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/1_mul_matrix.dir/link.d CMakeFiles/1_mul_matrix.dir/1_mul_matrix.cpp.o -o 1_mul_matrix

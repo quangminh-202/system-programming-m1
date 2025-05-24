@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/2_create_file.dir/link.d CMakeFiles/2_create_file.dir/2_create_file.cpp.o -o 2_create_file

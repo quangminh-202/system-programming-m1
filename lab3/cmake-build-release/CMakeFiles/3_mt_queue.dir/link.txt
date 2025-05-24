@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/3_mt_queue.dir/link.d CMakeFiles/3_mt_queue.dir/3_mt_queue.cpp.o -o 3_mt_queue

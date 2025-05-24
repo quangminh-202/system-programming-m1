@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/1_generate_matrix.dir/link.d CMakeFiles/1_generate_matrix.dir/1_generate_matrix.cpp.o -o 1_generate_matrix

@@ -1,0 +1,4 @@
+/home/quangminh/Documents/lab4/cmake-build-release/CMakeFiles/server.dir
+/home/quangminh/Documents/lab4/cmake-build-release/CMakeFiles/client.dir
+/home/quangminh/Documents/lab4/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/quangminh/Documents/lab4/cmake-build-release/CMakeFiles/rebuild_cache.dir

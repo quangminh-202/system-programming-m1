@@ -1,0 +1,7 @@
+/home/quangminh/Documents/lab3/cmake-build-debug/CMakeFiles/1_mul_matrix.dir
+/home/quangminh/Documents/lab3/cmake-build-debug/CMakeFiles/1_generate_matrix.dir
+/home/quangminh/Documents/lab3/cmake-build-debug/CMakeFiles/2_create_file.dir
+/home/quangminh/Documents/lab3/cmake-build-debug/CMakeFiles/2_find_element.dir
+/home/quangminh/Documents/lab3/cmake-build-debug/CMakeFiles/3_mt_queue.dir
+/home/quangminh/Documents/lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/quangminh/Documents/lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

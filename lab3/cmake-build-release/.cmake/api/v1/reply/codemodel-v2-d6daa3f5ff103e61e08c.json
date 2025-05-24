@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1_generate_matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1_generate_matrix-Release-0067ff53fd40c6242f5b.json",
+					"name" : "1_generate_matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1_mul_matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1_mul_matrix-Release-eb208e8ce109ea16a91a.json",
+					"name" : "1_mul_matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2_create_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2_create_file-Release-c03b1268e0577940cb05.json",
+					"name" : "2_create_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2_find_element::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2_find_element-Release-dbcca2476e5e1f77149e.json",
+					"name" : "2_find_element",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3_mt_queue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3_mt_queue-Release-1b6ae5a24febfe1545b9.json",
+					"name" : "3_mt_queue",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/quangminh/Documents/lab3/cmake-build-release",
+		"source" : "/home/quangminh/Documents/lab3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

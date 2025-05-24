@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/auto_client.dir/link.d CMakeFiles/auto_client.dir/auto_client.cpp.o -o auto_client

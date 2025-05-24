@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/auto_client.dir/link.d CMakeFiles/auto_client.dir/auto_client.cpp.o -o auto_client
